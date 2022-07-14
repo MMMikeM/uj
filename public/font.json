@@ -1,0 +1,90 @@
+{
+  "glyphs": {
+    " ": {
+      "ha": 222,
+      "x_min": 0,
+      "x_max": 0,
+      "o": ""
+    },
+    ".": {
+      "ha": 225,
+      "x_min": 42,
+      "x_max": 183,
+      "o": "m 183 169 l 183 0 l 42 0 l 42 169 l 183 169 z "
+    },
+    "H": {
+      "ha": 556,
+      "x_min": 63,
+      "x_max": 493,
+      "o": "m 360 0 l 360 453 l 196 453 l 196 0 l 63 0 l 63 997 l 196 997 l 196 574 l 360 574 l 360 997 l 493 997 l 493 0 l 360 0 z "
+    },
+    "J": {
+      "ha": 357,
+      "x_min": 14,
+      "x_max": 294,
+      "o": "m 14 121 l 101 121 q 161 193 161 121 l 161 997 l 294 997 l 294 168 q 140 0 294 0 l 14 0 l 14 121 z "
+    },
+    "U": {
+      "ha": 558,
+      "x_min": 63,
+      "x_max": 496,
+      "o": "m 496 997 l 496 189 q 335 0 496 0 l 222 0 q 63 190 63 0 l 63 997 l 196 997 l 196 186 q 254 121 196 121 l 308 121 q 363 186 363 121 l 363 997 l 496 997 z "
+    },
+    "W": {
+      "ha": 774,
+      "x_min": 14,
+      "x_max": 760,
+      "o": "m 760 997 l 613 0 l 468 0 l 386 578 l 306 0 l 161 0 l 14 997 l 146 997 l 240 250 l 335 997 l 439 997 l 533 250 l 628 997 l 760 997 z "
+    },
+    "i": {
+      "ha": 258,
+      "x_min": 63,
+      "x_max": 196,
+      "o": "m 63 0 l 63 997 l 196 997 l 196 0 l 63 0 z "
+    },
+    "t": {
+      "ha": 417,
+      "x_min": 14,
+      "x_max": 403,
+      "o": "m 275 876 l 275 0 l 142 0 l 142 876 l 14 876 l 14 997 l 403 997 l 403 876 l 275 876 z "
+    },
+    "u": {
+      "ha": 558,
+      "x_min": 63,
+      "x_max": 496,
+      "o": "m 496 997 l 496 189 q 335 0 496 0 l 222 0 q 63 190 63 0 l 63 997 l 196 997 l 196 186 q 254 121 196 121 l 308 121 q 363 186 363 121 l 363 997 l 496 997 z "
+    }
+  },
+  "familyName": "BigNoodleTitling",
+  "ascender": 1242,
+  "descender": -254,
+  "underlinePosition": -90,
+  "underlineThickness": 56,
+  "boundingBox": {
+    "yMin": -254,
+    "xMin": -104,
+    "yMax": 1242,
+    "xMax": 1144
+  },
+  "resolution": 1000,
+  "original_font_information": {
+    "format": 0,
+    "copyright": "Copyright (c) James Arboghast/Sentinel Type, 2003. All rights reserved. This font is free and distributable. You may: a) use it free of charge for any personal or commercial purpose, b) email it to anybody, upload it to archive sites & bulletin boards and include it in CD & software collections free of charge provided the documentation is intact. c) make derivative works from it but GET MY PERMISSION FIRST: arboghast@hotmail.com  You may not: a) charge money for it, b) make derivative works from it, rename it or claim it as your own work without my permission.  Don't argue with me.",
+    "fontFamily": "BigNoodleTitling",
+    "fontSubfamily": "Regular",
+    "uniqueID": "JamesArboghast/SentinelType,: BigNoodleTitling: 2003",
+    "fullName": "BigNoodleTitling",
+    "version": "Version 1.1; 2003",
+    "postScriptName": "BigNoodleTitling",
+    "trademark": "Big Noodle Titling is a trademark of James Arboghast/Sentinel Type. ::.  :.:: :..",
+    "designer": "James Arboghast/Sentinel Type",
+    "description": "Copyright (c) James Arboghast/Sentinel Type, 2003. All rights reserved. This font is free and distributable. You may: a) use it free of charge for any personal or commercial purpose, b) email it to anybody, upload it to archive sites & bulletin boards and include it in CD & software collections free of charge provided the documentation is intact. c) make derivative works from it but GET MY PERMISSION FIRST: arboghast@hotmail.com  You may not: a) charge money for it, b) make derivative works from it, rename it or claim it as your own work without my permission.  Don't argue with me.",
+    "manufacturerURL": "http://www.myfonts.com",
+    "designerURL": "arboghast@hotmail.com",
+    "preferredFamily": "BigNoodleTitling",
+    "preferredSubfamily": "Regular",
+    "compatibleFullName": "BigNoodleTitling"
+  },
+  "cssFontWeight": "normal",
+  "cssFontStyle": "normal"
+}
